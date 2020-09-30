@@ -1,5 +1,5 @@
 # Wordpress blog App Based on Flutter Framework
-[p]⭐ Star us on GitHub — it helps! [/p]
+##⭐ Star us on GitHub — it helps! 
 The Best Feature of This App is You can read your favourite posts Offline. No Internet is Needed.
 
 
