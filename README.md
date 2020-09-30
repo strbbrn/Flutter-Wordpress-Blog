@@ -1,6 +1,7 @@
 # Wordpress blog App Based on Flutter Framework
+*Use it as Normal wordprss blog app or News App, Story App.*
 ## ⭐ Star us on GitHub — it helps! 
-**The Best Feature of This App -**<br/>
+**The Best Feature**<br/>
 *You can read your favourite posts Offline. No Internet is Needed.*
 
 
