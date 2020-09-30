@@ -22,4 +22,9 @@ flutter run
 
 **Fell free to raise any issue.**<br/>
 **Note** *This is first release of this projeect there is no seperate config file you have to manually refract the code.*<br/>
-**⭐ Star us on GitHub — it helps!**
+**⭐ Star us on GitHub — it helps!**<br/>
+
+## 🌴 License
+**MIT**
+
+**You are welcome to use this however you wish within the MIT license, but please retain my credentials and links back to this repo.**
